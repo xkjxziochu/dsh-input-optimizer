@@ -12,3 +12,5 @@ _research/
 # temporary local verification harnesses; never ship these
 _harness/
 _build.log
+# npm pack output
+*.tgz
