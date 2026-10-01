@@ -1,0 +1,6 @@
+# The dsh-input-optimizer bundle patch. The package entry is intentionally
+# small; browser behavior is discovered through the package's dsh.client
+# manifest.
+- insert:
+    - id: dsh-input-optimizer
+      name: dsh-input-optimizer
